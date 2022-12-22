@@ -370,4 +370,4 @@ INSERT INTO `china_2023_festival` (`id`, `daystr`, `type`) VALUES
 (NULL,'20231228', 0),
 (NULL,'20231229', 0),
 (NULL,'20231230', 1),
-(NULL,'20231231', 1),
+(NULL,'20231231', 1);
